@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Mail, Linkedin, Instagram, MessageCircle, Github, FileText, Download } from 'lucide-react';
+import { Mail, Linkedin, Instagram, MessageCircle, Github } from 'lucide-react';
 import Scene from './Scene';
 import AvatarChatbot from './AvatarChatbot';
 
