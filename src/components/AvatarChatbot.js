@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Home, Play, Square, User, MapPin, Briefcase, GraduationCap, FileCode, Activity, Cpu } from 'lucide-react';
+import { Home, Play, Square, User, MapPin, Briefcase, GraduationCap, FileCode, Activity } from 'lucide-react';
 
 const AvatarChatbot = () => {
   const [isOpen, setIsOpen] = useState(false);
